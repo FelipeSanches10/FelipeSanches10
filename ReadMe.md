@@ -9,6 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,java,mysql)](https://skillicons.dev)
 <br>
 <br>
+<br>
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=FelipeSanches10&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSanches10&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
