@@ -1,7 +1,7 @@
 #### console.log("Welcome to my github!");
 
 ## About Me:
-🧑‍💻 Estudante Desenvolvimento de Software<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente estudando Node.js<br>🦾 A procura da primeira oportunidade como dev<br>
+👨🏻‍💻 Estudante Desenvolvimento de Software<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente estudando Node.js<br>🦾 A procura da primeira oportunidade como dev<br>
 
 
 ## Connect with me:
