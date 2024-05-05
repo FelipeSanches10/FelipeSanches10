@@ -5,7 +5,7 @@
 
 
 ## Connect with me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white[https://www.linkedin.com/in/felipe-sanches3/)
+<a href="(https://www.linkedin.com/in/felipe-sanches3/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## 💻 Stacks:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,java,mysql)](https://skillicons.dev)
