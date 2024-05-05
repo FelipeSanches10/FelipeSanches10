@@ -5,7 +5,7 @@ console.log("Welcome to my github!");
 
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 ## 💻 Stacks:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,expressjs,java,mysql)](https://skillicons.dev)
