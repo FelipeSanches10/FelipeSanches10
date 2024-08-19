@@ -1,4 +1,4 @@
-#### console.log("Welcome to my github!");
+#### System.out.println("Hello World!");
 
 ## About Me:
 👨🏻‍💻 Estudante Desenvolvimento de Software<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente estudando Java<br>🦾 A procura da primeira oportunidade como dev<br>
