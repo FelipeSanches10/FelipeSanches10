@@ -1,4 +1,4 @@
-#### System.out.println("Hello World!");
+#### print("Hello World!");
 
 ## About Me:
 👨🏻‍💻 Estudante Desenvolvimento de Software<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente trabalhando como Fullstack<br>
