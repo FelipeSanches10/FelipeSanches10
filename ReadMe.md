@@ -1,7 +1,7 @@
 #### print("Hello World!");
 
 ## About Me:
-👨🏻‍💻 Engenheiro de Software Junior<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente trabalhando como Fullstack<br>
+👨🏻‍💻 Engenheiro de Dados Junior<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente trabalhando como Engenheiro de Dados<br>
 
 
 ## Connect with me:
