@@ -1,7 +1,7 @@
 #### print("Hello World!");
 
 ## About Me:
-👨🏻‍💻 Engenheiro de Dados Junior<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente trabalhando como Engenheiro de Dados<br>
+👨🏻‍💻 Engenheiro de Dados Junior<br>🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>💻 Atualmente trabalhando como Engenheiro de Dados na TOTVS<br>
 
 
 ## Connect with me:
