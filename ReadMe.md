@@ -1,7 +1,7 @@
 #### print("Hello World!");
 
 ## About Me:
-👨🏻‍💻 Engenheiro de Dados Pleno<br>🎓 Pós graduando em Ciência de Dados & IA<br>💻 Atualmente trabalhando como Engenheiro de Dados na TOTVS<br>
+👨🏻‍💻 Engenheiro de Dados & IA Pleno<br>🎓 Pós graduando em Ciência de Dados & IA<br>💻 Atualmente trabalhando como Engenheiro de Dados na TOTVS<br>
 
 
 ## Connect with me:
